@@ -2,7 +2,7 @@ import Testing
 @testable import NeugelbLocalized
 
 struct LocalizableTests {
-    
+
     @Test
     func testLocalizableStrings() {
         #expect(Localizable.movieInformation == "Movie Information")
