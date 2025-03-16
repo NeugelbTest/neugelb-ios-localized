@@ -8,6 +8,7 @@ struct LocalizableTests {
         #expect(Localizable.movieInformation == "Movie Information")
         #expect(Localizable.latestMovies == "Latest Movies")
         #expect(Localizable.latestMoviesDescription == "Displays the most recently released movies, sorted by release date, using data from TMDB.")
+        #expect(Localizable.errorMessage == "Sorry, something went wrong.")
         #expect(Localizable.status == "Status")
         #expect(Localizable.rating == "Rating")
         #expect(Localizable.release == "Release")
