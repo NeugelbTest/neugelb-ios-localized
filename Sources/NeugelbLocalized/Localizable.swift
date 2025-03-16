@@ -10,7 +10,7 @@ public enum Localizable {
 
     // Displays the most recently released movies, sorted by release date, using data from TMDB.
     public static var latestMoviesDescription: String { "Displays the most recently released movies, sorted by release date, using data from TMDB." }
-    
+
     // Sorry, something went wrong.
     public static var errorMessage: String { "Sorry, something went wrong." }
 
